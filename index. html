@@ -1,0 +1,41 @@
+p {
+  font-family: verdana;
+  font-size: 20px; 
+}
+</style>ration: underline;  } 
+img {   
+display: block;   
+margin: auto;    
+float: right; 
+width="300"; 
+}
+p {
+  font-family: verdana;
+  font-size: 20px; 
+}
+</style>n: center; 
+text-decoration: underline;  } 
+img {   
+display: block;   
+margin: auto;    
+float: right; 
+width="300"; 
+}
+p {
+  font-family: verdana;
+  font-size: 20px; 
+}
+</style>
+</head>
+
+<body>
+
+<h1 style="text-align: center">welcome to my web site</h1>
+<h2> web dev</h2>
+<img src="https://share.google/U6WPpX8ed8sp7ZKoT" alt="U6WPpX8ed8sp7ZKoT" width="300">
+<p style="color:green">Full Name:          </p>
+<p style="color:green"> Age:         </p>
+<p style="color:green"> calsse:     </p><p style="color:green">  university:     </p> 
+</body>
+</html>
+
